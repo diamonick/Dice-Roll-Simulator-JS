@@ -3,6 +3,8 @@ A simple, virtual dice roll simulator in Javascript.
 
 🖥️Demo: https://diamonick.github.io/Dice-Roll-Simulator-JS/
 
+<img src="https://github.com/diamonick/Dice-Roll-Simulator-JS/blob/main/Art/Preview_Photo.png" alt="Demo Preview Photo" width="591" height="643">
+
 # 📄How To Use
 
 * Click on a die to display the die.
