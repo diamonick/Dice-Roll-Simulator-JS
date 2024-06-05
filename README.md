@@ -1,6 +1,8 @@
 # Dice Roll Simulator
 A simple, virtual dice roll simulator in Javascript.
 
+🖥️Demo: https://diamonick.github.io/Dice-Roll-Simulator-JS/
+
 # 📄How To Use
 
 * Click on a die to display the die.
